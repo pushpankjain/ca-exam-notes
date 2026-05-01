@@ -1,4 +1,4 @@
-# about-ca-qualification
+# ca-qualification
 ca-exam-notes
 
 # CA (Chartered Accountant) - ICAI Qualification Notes
